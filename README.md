@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Felix
 - 🌱 I’m currently learning Web Development
 - 💞️ NextJS, React, TailwindCSS, FramerMotion, ...
+- 🚀 Typescript, Javascript, HTML, CSS, GraphQL, ...
 - 📫 Reach me on Discord @MrBond2104#2104
 
 <!---
